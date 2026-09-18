@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-A final-year project by **Akshat Kaushik** that recommends similar movies using TMDB metadata, TF-IDF and cosine similarity. Two Streamlit interfaces offer movie selection and poster cards; the main interface also supports an optional conversational assistant.
+A final-year project that recommends similar movies using TMDB metadata, TF-IDF and cosine similarity. Two Streamlit interfaces offer movie selection and poster cards; the main interface also supports an optional conversational assistant.
 
 ## Features
 
