@@ -1,0 +1,45 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+
+# Rebuild generated model locally
+*.pkl
+*.pickle
+
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.pytest_cache/
+.claude/
+.vscode/
+
+# Excluded project materials and unused scripts
+Report/
+report/
+*Report*
+*report*
+*.doc
+*.docx
+*.pdf
+*.ppt
+*.pptx
+*.mp4
+*.mkv
+*.avi
+*.mov
+agent.py
+app.py
+file1.ipynb
+dataset/
+
+# Operating system files
+.DS_Store
+Thumbs.db
